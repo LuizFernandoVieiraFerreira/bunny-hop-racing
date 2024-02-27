@@ -13,9 +13,9 @@ In the game you control a bunny that rides his car to get to first place in a ra
 - [Linux](bin/racing_linux.zip)
 - [Raspberry Pi](bin/racing_raspi.zip)
 
-<!-- ## Gameplay
+## Gameplay
 
-<img src="imgs/start.gif" width="256" height="256"/><img src="imgs/mid.gif" width="256" height="256"/><img src="imgs/end.gif" width="256" height="256"/> -->
+<img src="imgs/start.gif" width="256" height="256"/><img src="imgs/mid.gif" width="256" height="256"/><img src="imgs/end.gif" width="256" height="256"/>
 
 ## What is Pico 8
 

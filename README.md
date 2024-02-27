@@ -8,10 +8,10 @@ In the game you control a bunny that rides his car to get to first place in a ra
 
 ## Download
 
-- [Windows](bin/bunnyhopracing_windows.zip)
-- [MacOS](bin/bunnyhopracing_osx.zip)
-- [Linux](bin/bunnyhopracing_linux.zip)
-- [Raspberry Pi](bin/bunnyhopracing_raspi.zip)
+- [Windows](bin/racing_windows.zip)
+- [MacOS](bin/racing_osx.zip)
+- [Linux](bin/racing_linux.zip)
+- [Raspberry Pi](bin/racing_raspi.zip)
 
 <!-- ## Gameplay
 

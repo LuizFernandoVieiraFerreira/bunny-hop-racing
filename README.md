@@ -1,4 +1,4 @@
-# Bunny Hop
+# Bunny Hop Racing
 
 ![menu](imgs/menu.png)
 
